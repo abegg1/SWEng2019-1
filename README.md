@@ -17,23 +17,25 @@ Projeto da turma de Fundamentos de Engenharia de Software FTEC 2019/1
 Executar apenas a primeira vez no terminal:
 
 -   npm i -g npm (atualiza NPM)
--   npm rm -g gulp (remove GULP caso esteja instalado, pois necessita somente do gulp-cli)
--   npm i -g gulp-cli (instala gulp-cli globalmente)
 -   npm i -g node-sass (atualiza node-sass globalmente)
 -   npm i (instala pacotes de tarefas)
 -   npm audit fix (corrigi problemas em pacotes)
 
+## React
+
+-   [Referencia da estrutura](https://medium.freecodecamp.org/a-complete-react-boilerplate-tutorial-from-zero-to-hero-20023e086c4a)
+
 ### Necessário para funcionar o projeto
 
--   Configurar no arquivo gulpfile.js o endereço do virtualhost na task do BrowserSync;
+-
 
 #### Ambiente de desenvolvimento, executar no terminal:
 
--   gulp
+-
 
 #### Ambiente de produção, executar no terminal:
 
--   gulp build
+-
 
 ### Referências de CSS auxiliar
 
