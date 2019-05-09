@@ -41,10 +41,6 @@ package-lock.json
 yarn-debug.log*
 yarn-error.log*
 yarn.lock*
-/build/bundle.js
-/build/index.html
-/build*
-/build/*
 
 # Compiled sources
 *.com
@@ -58,12 +54,12 @@ error_log/
 npm-debug.log*
 
 # Generated
-public/admin/**
-public/assets/css/**
-public/assets/html/**
-public/assets/img/**
-public/assets/js/**
-public/assets/uploads/**
+dist/admin/**
+dist/assets/css/**
+dist/assets/html/**
+dist/assets/img/**
+dist/assets/js/**
+dist/assets/uploads/**
 
 # Gitkeep
 !**/.gitkeep
